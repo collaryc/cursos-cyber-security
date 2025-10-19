@@ -1,6 +1,4 @@
-python
 
-relatorio = f"""
 ===========================
   RELATÓRIO AUTOMÁTICO
 ===========================
@@ -14,4 +12,5 @@ Resumo:
 - Status: ✅ Concluído com sucesso
 """
 
-print(relatorio)
+
+Link: www.google.com.br/cursos
